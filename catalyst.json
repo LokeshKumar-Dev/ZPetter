@@ -1,0 +1,13 @@
+{
+  "functions": {
+    "targets": [
+      "petter_function"
+    ],
+    "ignore": [],
+    "source": "functions"
+  },
+  "client": {
+    "source": "petter",
+    "plugin": "zcatalyst-cli-plugin-react"
+  }
+}

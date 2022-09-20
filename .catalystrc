@@ -1,0 +1,29 @@
+{
+  "defaults": {
+    "project": 1,
+    "env": 1
+  },
+  "actives": {
+    "project": 1,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": "2213000000015145",
+      "name": "Petter",
+      "domain": {
+        "id": "50010626049",
+        "name": "petter-60016787850.development"
+      },
+      "env": [
+        {
+          "idx": 1,
+          "id": "60016787850",
+          "name": "Development",
+          "type": 3
+        }
+      ]
+    }
+  ]
+}
